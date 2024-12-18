@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=300&color=63F718&background=3BFF6100&multiline=true&width=438&height=58&lines=++++++++++++++++Welcome+to+;++++++++++KNUbuilder's+GIthub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=300&color=63F718&background=3BFF6100&multiline=true&width=438&height=58&lines=++++++++++++++++Welcome+to+;"
+                                      alt="Typing SVG" /></a>
+                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=300&color=0EACF7&background=3BFF6100&multiline=true&width=438&height=58&lines=++++++++++KNUbuilder's+GIthub" alt="Typing SVG" /></a>
 <!--
 **KNUbuilder/KNUbuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
