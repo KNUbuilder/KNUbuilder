@@ -1,10 +1,9 @@
-## Hi there 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=300&color=63F718&background=3BFF6100&multiline=true&width=438&height=58&lines=++++++++++++++++Welcome+to+;++++++++++KNUbuilder's+GIthub" alt="Typing SVG" /></a>
 <!--
 **KNUbuilder/KNUbuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=300&color=63F718&background=3BFF6100&multiline=true&width=438&height=58&lines=++++++++++++++++Welcome+to+;++++++++++KNUbuilder's+GIthub)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
